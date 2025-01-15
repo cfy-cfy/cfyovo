@@ -1,0 +1,39 @@
+【https://1b396d63-ad7c-458c-8540-9afdf1283171-00-j2pr0xwrtqgq.worf.replit.dev/CSharp/Ltd_Ocean/Ocean_msVstoP01/】
+https://vsto.cfy.asia
+https://vsto.cfyovo.tk/main_cfy/0.0_summary.txt
+https://1b396d63-ad7c-458c-8540-9afdf1283171-00-j2pr0xwrtqgq.worf.replit.dev/main_cfy/0.0_summary.txt
+https://1b396d63-ad7c-458c-8540-9afdf1283171-00-j2pr0xwrtqgq.worf.replit.dev/data_cfy/2_InstallerList/d2_scandir_C.php
+
+https://vsto.cfyovo.tk/CSharp/VstoPublish/WinFormsApp1_Public/publish.htm
+https://phptry1v1.cfy-cfy.repl.co/CSharp/VstoPublish/WinFormsApp1_Public/publish.htm
+
+https://vsto.cfyovo.tk/CSharp/VstoPublish/MS_ExcelAddIn_Publish1/MS_ExcelAddIn_Publish1.vsto
+https://vsto.cfyovo.tk/CSharp/VstoPublish/MS_ExcelAddIn_Publish1/setup.exe
+https://phptry1v1.cfy-cfy.repl.co/CSharp/VstoPublish/MS_ExcelAddIn_Publish1/setup.exe
+https://1b396d63-ad7c-458c-8540-9afdf1283171-00-j2pr0xwrtqgq.worf.replit.dev/CSharp/Ltd_Ocean/Ocean_msVstoP01/setup.exe
+
+https://vsto.cfyovo.tk/resources_cfy/3_VBA/3.1_Ocean/UKSynology_cfy-2022.10.03.rar
+https://phptry1v1.cfy-cfy.repl.co/resources_cfy/3_VBA/3.1_Ocean/UKSynology_cfy-2022.10.03.rar
+————————————————————————————————————————————————————————————————————————————————————————————————
+————————————————————————————————————————————————————————————————————————————————————————————————
+
+https://wow.techbrood.com/fiddle/6572
+【PHP学习网址】 http://c.biancheng.net/view/7281.html
+
+【免费网站模板】https://themewagon.com/themes/material-kit-2-free-responsive-bootstrap-5-website-template/
+
+【PHP单引号和双引号的区别】
+ 会解析双引号中的变量，而不会解析单引号中的变量;虽然双引号定义的字符串能够解析变量，但是如果变量后边还有字符串的话，就需要将变量与后面的字符串使用空格分开，或者使用大括号 { } 将变量包裹起来—— echo "a:{$a}<br/>";   
+
+【PHP发送邮件：】
+// https://github.com/PHPMailer/PHPMailer
+// https://stackoverflow.com/questions/5335273/how-can-i-send-an-email-using-php
+$stmpServer = "smtp.163.com";       //smtp服务器地址
+$fromEmail = "cfy_7788999@163.com"; //邮箱账号
+$pwd = "OTSQKQKDAEPIEPNE";         //邮箱密码（qq邮箱此处使用授权码，其他邮箱见邮箱规定使用的是邮箱密码还是授权码）
+$toEmail ="1021931267@qq.com";     
+$sendMail = "";
+$to      = '1021931267@qq.com';
+
+【PHP解析json：】
+https://gitee.com/cfy-cfy/vpcid-code/raw/master/VB/M1_VBAId.json
