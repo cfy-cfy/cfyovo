@@ -80,7 +80,7 @@
                                                         selectdir($a, $level);  
                                                     }else{
                                                        
-                                                        echo "<li style='line-height: 10px;float:left;'> <a  href=" . $address . mb_substr($a,22) . ">". $v . "</a></li>","<br>";                                               
+                                                        echo "<li style='line-height: 10px;float:left;'> <a  href=" . $address . mb_substr($a,22) . ">". $v . "</a></li>"."<br>";                                               
                                                     }
                                                 }
                                             }
